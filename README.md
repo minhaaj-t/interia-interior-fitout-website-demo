@@ -2,6 +2,9 @@
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
+
+![image](https://github.com/user-attachments/assets/03139096-0619-4a46-94d8-57bc64d61773)
+
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/minhajs-projects-30e0e3d6/v0-recreate-ui-from-screenshot)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/ZTA1qrUjnqq)
 
